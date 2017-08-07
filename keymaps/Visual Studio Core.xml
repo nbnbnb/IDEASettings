@@ -1,7 +1,6 @@
 <keymap version="1" name="Visual Studio Core" parent="Visual Studio">
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
-  <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -9,9 +8,7 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="EditorSplitLine" />
-  <action id="EditorStartNewLine">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-  </action>
+  <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
