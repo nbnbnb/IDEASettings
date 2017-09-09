@@ -115,6 +115,21 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value=".*上午.*" />
+                      <option name="id" value="18ef3c06-df9b-475f-9a37-73d8a54a2c1a" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-11796736" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f5601825-8754-47e5-a85c-38ee98700203" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*信息.*" />
                       <option name="id" value="83151310-bff3-4e87-b33a-dab49377f862" />
