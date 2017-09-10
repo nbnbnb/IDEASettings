@@ -10,8 +10,9 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
-                      <option name="id" value="f60f7557-9a91-4dfc-8436-f455c0840004" />
+                      <option name="id" value="a4bf58a8-97cc-472d-a7b4-cc6da0f72315" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -26,13 +27,14 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="32f64384-ce07-46e6-8994-e6b115d7e4c8" />
+                          <option name="id" value="7ae303af-7eee-4df7-ab18-f14322c62789" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
-                      <option name="id" value="99ca0bdf-0b0a-4986-9099-2d31d5b9a3ad" />
+                      <option name="id" value="25e54c3f-8dd9-476e-a764-76acd706be0e" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -46,13 +48,14 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="8c7e78f5-265b-4a74-99e8-ae493df758c4" />
+                          <option name="id" value="79a07b25-8ebb-4ebf-94f3-25b4de52798a" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
-                      <option name="id" value="bfa32c55-4acf-4fd7-b3f2-1721e90f9b57" />
+                      <option name="id" value="3582504a-df03-43f8-a968-76b04e00c718" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -66,28 +69,30 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="60bcadf0-33d7-4251-9cdb-6be5d51e4544" />
+                          <option name="id" value="a65f1071-c69a-47d5-9e27-2e473e1ed2f3" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
-                      <option name="id" value="4e6ab603-02a6-4cde-ad8e-4d380e0464dd" />
+                      <option name="id" value="d0752e26-fc09-4744-a81c-cb8971d6a0c8" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-16763708" />
+                              <option name="color" value="-8355712" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="bbbb68f3-8cdc-4cdb-8cb6-6202b6d0630c" />
+                          <option name="id" value="29fad4c5-6024-41b3-9dcb-4f8493b4c2ad" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
-                      <option name="id" value="7f735dd0-2587-4218-aa78-586f9a34c56d" />
+                      <option name="id" value="9703315b-4ec8-4aa7-9f61-54528f42ffaf" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -95,68 +100,7 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="f5601825-8754-47e5-a85c-38ee98700203" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*下午.*" />
-                      <option name="id" value="c7778d09-1180-4100-aeda-3a87df052187" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-11796736" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="f5601825-8754-47e5-a85c-38ee98700203" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*上午.*" />
-                      <option name="id" value="18ef3c06-df9b-475f-9a37-73d8a54a2c1a" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-11796736" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="f5601825-8754-47e5-a85c-38ee98700203" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*信息.*" />
-                      <option name="id" value="83151310-bff3-4e87-b33a-dab49377f862" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-11796736" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="f5601825-8754-47e5-a85c-38ee98700203" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*\[INFO\].*" />
-                      <option name="id" value="6fe7d05d-66d2-418c-b16b-70b084f78461" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-11796736" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="f5601825-8754-47e5-a85c-38ee98700203" />
+                          <option name="id" value="53756275-ee6f-4ab8-abcd-a632a8b3a722" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -166,7 +110,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1504958876377" />
+          <option name="id" value="1505040804137" />
         </Profile>
       </list>
     </option>
