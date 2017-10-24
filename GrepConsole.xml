@@ -53,7 +53,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="3582504a-df03-43f8-a968-76b04e00c718" />
                       <option name="style">
