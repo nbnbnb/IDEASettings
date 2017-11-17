@@ -10,7 +10,6 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="a4bf58a8-97cc-472d-a7b4-cc6da0f72315" />
                       <option name="style">
@@ -32,7 +31,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="25e54c3f-8dd9-476e-a764-76acd706be0e" />
                       <option name="style">
