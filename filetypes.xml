@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="factories" type="PLAIN_TEXT" />
-      <mapping ext="plugin" type="PLAIN_TEXT" />
-      <mapping pattern="BlogMapper" type="XML" />
+
     </extensionMap>
   </component>
 </application>
