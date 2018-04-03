@@ -1,5 +1,7 @@
 <application>
   <component name="HttpConfigurable">
     <option name="USE_PROXY_PAC" value="true" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="http://127.0.0.1:1080/pac?t=20180403225705622&amp;secret=0bHrOumV5CVIMCzT6m6kHVEbZAJ59FlbBTzaba2hgB4=" />
   </component>
 </application>
