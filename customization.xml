@@ -1,13 +1,20 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="ProfilingActions" is_group="true" action_type="-1" position="21">
+    <group value="OpenFileInConsoleToolbarAction" is_action="true" action_type="-1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="HelpTopics" is_action="true" action_type="-1" position="19">
+    <group value="CaptureCPUUsageData" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="Profiling Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CaptureMemorySnapShot" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Profiling Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Git.Pull" is_action="true" action_type="1" position="5">
