@@ -1,11 +1,4 @@
 <application>
-  <component name="DiffManager">
-    <enableFiles value="true" />
-    <enableMerge value="true" />
-    <filesTool value="C:\Program Files\Beyond Compare 4\BCompare.exe" newValue="C:\Program Files\Beyond Compare 4\BCompare.exe" />
-    <mergeTool value="C:\Program Files\Beyond Compare 4\BCompare.exe" newValue="C:\Program Files\Beyond Compare 4\BCompare.exe" />
-    <mergeToolParameters value="%1 %2 %3 %4" />
-  </component>
   <component name="ExternalDiffSettings">
     <option name="DIFF_ENABLED" value="true" />
     <option name="DIFF_DEFAULT" value="true" />
