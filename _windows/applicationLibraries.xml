@@ -57,7 +57,6 @@
         <root url="jar://D:/DevSoft/groovy/lib/qdox-1.12.1.jar!/" />
         <root url="jar://D:/DevSoft/groovy/lib/testng-6.13.1.jar!/" />
         <root url="jar://D:/DevSoft/groovy/lib/xstream-1.4.10.jar!/" />
-        <root url="jar://D:/JavaLibs/mscorlib.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
