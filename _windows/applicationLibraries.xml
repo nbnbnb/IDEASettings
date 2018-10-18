@@ -1,63 +1,7 @@
 <application>
   <component name="libraryTable">
     <library name="groovy-2.5.2">
-      <CLASSES>
-        <root url="jar://D:/DevSoft/groovy/lib/ant-1.9.9.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/ant-antlr-1.9.9.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/ant-junit-1.9.9.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/ant-launcher-1.9.9.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/apiguardian-api-1.0.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/bsf-2.4.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/commons-cli-1.4.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/commons-logging-1.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/gpars-1.2.1.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-ant-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-bsf-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-cli-commons-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-cli-picocli-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-console-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-datetime-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-dateutil-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-docgenerator-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-groovydoc-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-groovysh-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-jaxb-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-jmx-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-json-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-json-direct-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-jsr223-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-macro-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-nio-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-servlet-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-sql-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-swing-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-templates-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-test-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-test-junit5-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-testng-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/groovy-xml-2.5.2.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/hamcrest-core-1.3.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/ivy-2.4.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/jansi-1.17.1.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/javax.servlet-api-3.0.1.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/jcommander-1.72.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/jline-2.14.6.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/jsp-api-2.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/jsr166y-1.7.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/junit-4.12.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/junit-jupiter-api-5.2.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/junit-jupiter-engine-5.2.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/junit-platform-commons-1.2.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/junit-platform-engine-1.2.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/junit-platform-launcher-1.2.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/multiverse-core-0.7.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/opentest4j-1.1.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/picocli-3.5.0.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/qdox-1.12.1.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/testng-6.13.1.jar!/" />
-        <root url="jar://D:/DevSoft/groovy/lib/xstream-1.4.10.jar!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
