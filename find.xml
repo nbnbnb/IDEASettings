@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'order-openapi'" />
-    <option name="defaultScopeName" value="Project 'order-openapi'" />
+    <option name="customScope" value="Project 'dayorder-callback-service'" />
+    <option name="defaultScopeName" value="Project 'dayorder-callback-service'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'order-openapi'" />
+    <option name="SEARCH_SCOPE" value="Project 'dayorder-callback-service'" />
   </component>
 </application>
