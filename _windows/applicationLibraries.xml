@@ -5,12 +5,5 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="JavaLibs">
-      <CLASSES>
-        <root url="file://D:/JavaLibs" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
   </component>
 </application>
